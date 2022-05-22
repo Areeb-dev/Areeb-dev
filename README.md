@@ -1,4 +1,4 @@
-### Hi there, [I'm Areeb][website] <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
+### Hi there, I'm Areeb <img width="30" src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/simple_smile.png" />
 
 <!-- [![Website](https://img.shields.io/website?label=mansoorrajput.com&style=for-the-badge&url=https%3A%2F%2Fmansoorrajput.com)][website]
  -->
