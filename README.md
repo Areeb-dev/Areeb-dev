@@ -1,4 +1,5 @@
-### Hi there, I'm Areeb <img width="30" src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/simple_smile.png" />
+### Hi there, I'm Areeb 
+<img width="30" src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/simple_smile.png" />
 
 <!-- [![Website](https://img.shields.io/website?label=mansoorrajput.com&style=for-the-badge&url=https%3A%2F%2Fmansoorrajput.com)][website]
  -->
