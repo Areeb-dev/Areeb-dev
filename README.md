@@ -1,10 +1,8 @@
 ### Hi there, I'm Areeb 👋,
-<img src="https://komarev.com/ghpvc/?username=Areeb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="areeb-dev" /> </p>
-<!-- [![Website](https://img.shields.io/website?label=mansoorrajput.com&style=for-the-badge&url=https%3A%2F%2Fmansoorrajput.com)][website]
- -->
+
 <h3>FULL STACK DEVELOPER</h3>
 
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" /> I’m currently working on something amazing!
+- 🚀 I'm currently working on Web & Mobile Development.
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" />  fun fact: Coding is not my job its my hobby and i love doing it. 
 
