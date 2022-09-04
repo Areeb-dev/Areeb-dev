@@ -15,31 +15,15 @@
 
 
 ---
+### Socials
 
-
- <br/>
-<h3 align="left">Connect with me:</h3>
-
-
-[<img align="left" alt="Muhammad Areeb | Facebook" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" />][facebook]
-[<img align="left" alt="Muhammad Areeb | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
-
-<!-- [<img align="left" alt="hussainmansoor876 | Fiverr" height="40px" width="40px" src="https://i.postimg.cc/Cx9YMWKn/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" />][fiverr] -->
-
-<br />
+<p align="left"> <a href="https://www.github.com/areeb-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/areeb-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
- ![Areeb's github stats](https://github-readme-stats.vercel.app/api?username=Areeb-dev&count_private=true&theme=radical&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
- 
- 
-  ![Areeb's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-dev&theme=radical&hide=css,html&show_icons=true&hide_border=true)
- 
- 
- 
-</details>
+###
+<a href="http://www.github.com/areeb-dev"><img src="https://github-readme-stats.vercel.app/api?username=areeb-dev&count_private=true&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Areeb-dev GitHub stats" /></a>
 
-[facebook]: https://www.facebook.com/muhammad.areebbali
-[linkedin]: https://www.linkedin.com/in/areeb-dev/
+<a href="http://www.github.com/Fashad-Ahmed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=areeb-dev&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/areeb-dev"><img src="https://activity-graph.herokuapp.com/graph?username=areeb-dev&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
