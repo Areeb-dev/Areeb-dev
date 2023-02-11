@@ -1,6 +1,6 @@
 ### Hi there, I'm Areeb 👋,
 
-<h3>FULL STACK DEVELOPER</h3>
+<h3>MERN STACK DEVELOPER</h3>
 
 - 🚀 I'm currently working on Web & Mobile Development.
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
