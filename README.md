@@ -24,4 +24,4 @@
 
 <a href="http://www.github.com/areeb-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=areeb-dev&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/areeb-dev">[![Areeb Dev github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=areeb-dev&theme=dracula)](https://github.com/areeb-dev/github-readme-activity-graph)</a>
+<a href="http://www.github.com/areeb-dev">[![Areeb Dev github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=areeb-dev&theme=dracula)](https://github.com/areeb-dev)</a>
