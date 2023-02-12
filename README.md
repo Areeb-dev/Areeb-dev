@@ -2,7 +2,8 @@
 
 <h3>MERN STACK DEVELOPER</h3>
 
-- 🚀 I'm currently working on Web & Mobile Development.
+- 🚀 I'm currently working on Web Development.
+- 💼 i've an experience of 1+ year
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" />  fun fact: Coding is not my job its my hobby and i love doing it. 
 
