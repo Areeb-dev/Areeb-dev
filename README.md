@@ -1,6 +1,6 @@
 ### Hi there, I'm Areeb 👋,
 
-<h3>MERN STACK DEVELOPER</h3>
+<h3>FULL STACK DEVELOPER</h3>
 
 - 🚀 I'm currently working on Web Development.
 - 💼 i've an experience of 1.5+ year
