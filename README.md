@@ -5,7 +5,7 @@
 - 🚀 I'm currently working on Web Development.
 - 💼 i've an experience of 1.5+ year
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" />  fun fact: Coding is not my job its my hobby and i love doing it. 
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" />  Fun fact: Coding is not my job its my hobby and i love doing it. 
 
 <h3 align="left">TECHNOLOGIES I USE OR CODE WITH:</h3>
 
@@ -24,5 +24,3 @@
 <a href="http://www.github.com/areeb-dev"><img src="https://github-readme-stats.vercel.app/api?username=areeb-dev&count_private=true&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Areeb-dev GitHub stats" /></a>
 
 <a href="http://www.github.com/areeb-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=areeb-dev&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/areeb-dev">[![Areeb Dev github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=areeb-dev&theme=react-dark)](https://github.com/areeb-dev)</a>
