@@ -1,4 +1,4 @@
-### Hi there, I'm Areeb 👋,
+### Hi there, I'm Areeb 
 
 <h3>FULL STACK DEVELOPER</h3>
 
@@ -18,8 +18,9 @@
 <p align="left"> <a href="https://www.github.com/areeb-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/areeb-dev" target="_blank" rel="noreferrer">
   &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <br/>
+<h3>🔍 GitHub Profile Stats:</h3>
 
-
+---
 ###
 <a href="http://www.github.com/areeb-dev"><img src="https://github-readme-stats.vercel.app/api?username=areeb-dev&count_private=true&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Areeb-dev GitHub stats" /></a>
 
