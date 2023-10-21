@@ -2,9 +2,9 @@
 
 <h3>FULL STACK DEVELOPER</h3>
 
-- 🚀 I'm currently working on Web Application Development.
-- 💼 i've an Experience of 1.5+ years.
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing.
+- 🚀 I am currently involved in web application development.
+- 💼 With over 1.5 years of experience under my belt.
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I am continually expanding my knowledge and exploring new avenues in the field.
 
 <h3 align="left">TECHNOLOGIES I USE OR CODE WITH:</h3>
 
